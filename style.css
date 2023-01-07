@@ -1,0 +1,257 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/*banar style*/
+.banner1{
+    background-image: url(images/banner/banner3.png);
+    width: 1600px;
+    height: 808px;
+    position: absolute;
+
+}
+.header-contant{
+    margin: 210px 230px 0px 840px;
+    color: white;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    text-align: right;
+    font-family: 'Work Sans', sans-serif;
+    font-style: normal;
+}
+.header-subcontant{
+    margin: 20px 230px 30px 870px;
+    color: white;
+    font-family: 'Work Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+}
+.button1{
+    margin: 0px 230px 160px 1210px;
+    color: blue;
+    width: 160px;
+    height: 64px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+/*main-section style*/
+.image-contant{ 
+    display: flex;
+    align-items: center;
+    position: absolute;
+    width: 1072px;
+    height: 723.3px;
+    left: 206px;
+    top: 939px;
+
+
+}
+.image-contant-title{
+    width: 288px;
+    height: 94px;
+    left: 862px;
+    top: 1178px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+    
+}
+.image-contant-subtitle{
+    padding-top: 20px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 26px;
+    color: #444343;
+    left: 862px;
+    top: 1296px;
+}
+.tittle-subtitle{
+    width: 416px;
+    height: 400px;
+    left: 862px;
+    top: 1178px;
+
+}
+/*my plan*/
+.tittle3{
+    position: absolute;
+    width: 179px;
+    height: 47px;
+    left: 765px;
+    top: 1792px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40
+    
+    
+    
+    
+px;
+    line-height: 47px;
+    text-align: center;
+    color: #151414;
+}
+/*plan describe*/
+.plan-describe{
+    display: flex;
+    position: absolute;
+    width: 1141px;
+    height: 202px;
+    left: 200px;
+    top: 1889px;
+}
+h4{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+    color: #737272;
+
+
+}
+.Web{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: #151414;
+
+
+}
+.Java{
+    margin-left:40px ;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: #151414;
+
+}
+.Smoking{
+    margin: 0px 70px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: #151414;
+}
+.ecommerce{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: #151414;
+}
+/*tittle-button style*/
+
+.tittle-button{
+    background-image: url(images/watch.png);
+    background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%);
+    position: absolute;
+    width: 1140px;
+    height: 300px;
+    left: 230px;
+    top: 2221.96px;
+    border-radius: 8px;
+
+}
+.subtittle-button{
+    width: 459px;
+    height: 182px;
+    left: 294px;
+    top: 2280.96px;
+
+}
+.tittle4{
+    padding: 65px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #FFFFFF;
+
+}
+.button2{
+    border-radius: 5px;
+    width: 160px;
+    height: 50px;
+    margin:0px 915px 100px 60px;
+    color: #005FAC;
+    font-weight: bold;
+}
+.footersection{
+    display: flex;
+    position: absolute;
+    width: 1600px;
+    height: 577px;
+    top: 2651.96px;
+    background-color: #151414;
+    color: #FFFFFF;
+}
+   .footersectionleft{
+    width: 485px;
+    height: 317px;
+    left: 230px;
+    top: 2781.96px;
+
+}
+    
+
+.future{
+        font-family: 'Work Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 20px;
+        color: #F8F8F8;
+    }
+.footercontant{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+
+
+}
+.footersectionright{
+    width: 325px;
+    height: 204px;
+    line-height: 3;
+    margin: 100px 300px;
+   }
+.button3{
+    color: #FFFFFF;
+    width: 160.11px;
+    height: 40px;
+    left: 1046px;
+    top: 2921.96px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    background-color: #005FAC;
+    border-radius: 8px;
+   }
